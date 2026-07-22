@@ -1,3 +1,3 @@
 -- Solution
 
-ALTER TABLE Books RENAME COLUMN book_id to isbn_13
+ALTER TABLE Books RENAME COLUMN book_id to isbn_13;
